@@ -27,7 +27,7 @@ If you have questions regarding these documents or need assistance with the bot,
 
 [![Discord Support](https://img.shields.io/discord/1175858000000000000?color=5865F2&label=Shard%20Support&logo=discord&logoColor=white)](https://discord.gg/sy5AkdfmPm)
 
-> **Official Invite Link:** [Click here to invite Shard]([https://discord.com/api/oauth2/authorize?client_id=1443101884687716433&permissions=8&scope=bot%20applications.commands](https://discord.gg/sy5AkdfmPm))
+> **Official Invite Link:** [Click here to invite Shard](https://discord.com/api/oauth2/authorize?client_id=1443101884687716433&permissions=8&scope=bot%20applications.commands)
 
 ---
 *© 2025 Shard Bot Team. All rights reserved.*
